@@ -1,0 +1,42 @@
+.one{
+    width: 100%;
+    display: flex;
+}
+
+.text-area{
+    width: 50%;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.images-section{
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.images-area{
+    width: 80%;
+   
+}.welcome{
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: burlywood;
+    margin-left: 30px;
+}
+.pra{
+    font-size: 25px;
+    font-family: monospace;
+    color: darkcyan;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.github{
+    font-size: 25px;
+    text-decoration: none;
+    color: blueviolet;
+    background-color: crimson;
+    padding:18px 40px;
+    margin-top: 100px;
+    border-radius: 20px;
+    border: 5px solid gold;
+    p
+}
